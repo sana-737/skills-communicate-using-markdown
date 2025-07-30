@@ -11,3 +11,7 @@
 var a = "Hello, world!";
 var b= "Have a nice day!!!";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
