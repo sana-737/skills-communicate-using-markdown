@@ -6,3 +6,8 @@
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var a = "Hello, world!";
+var b= "Have a nice day!!!";
+```
